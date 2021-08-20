@@ -31,6 +31,12 @@ social-network-links:
   twitter: 8itCat
   reddit: QueenVengeance
 
+share-links-active:
+  email: false
+  github: true
+  twitter: true
+  reddit: true
+
 # --- Other --- #
 
 exclude:
