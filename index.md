@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 8-Bit Cat's Website
 
 You can use the [editor on GitHub](https://github.com/8itCat/8itCat.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
