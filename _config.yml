@@ -43,6 +43,9 @@ share-links-active:
 exclude:
   - README.md
 
+# Fill in your Google Analytics ID to track your website using Google Analytics
+google_analytics: "G-MX9S8RTX9S"
+
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
