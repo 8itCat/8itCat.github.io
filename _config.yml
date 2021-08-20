@@ -1,2 +1,10 @@
+# --- Required options --- #
+
+# Name of Jekyll Theme
 remote_theme: daattali/beautiful-jekyll@5.0.0
+
+# Name of website
 title: 8-Bit Cat's Personal Website
+
+# Author
+author: 8itCat
