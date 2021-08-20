@@ -23,6 +23,14 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar.png"
 
+# --- Socials --- #
+
+social-network-links:
+  email: "avaq9970@gmail.com"
+  github: 8itCat
+  twitter: 8itCat
+  reddit: u/QueenVengeance
+
 # --- Other --- #
 
 exclude:
