@@ -42,15 +42,15 @@ share-links-active:
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#151515"
-navbar-text-col: "#bfbfbf"
-navbar-border-col: "#DDDDDD"
+navbar-text-col: "#BFBFBF"
+navbar-border-col: "#222222"
 page-col: "#222222"
-text-col: "#bfbfbf"
-link-col: "#ff7500"
-hover-col: "#ff7a5e"
+text-col: "#BFBFBF"
+link-col: "#FF7500"
+hover-col: "#FF7A5E"
 footer-col: "#151515"
 footer-text-col: "#888888"
-footer-link-col: "#bfbfbf"
+footer-link-col: "#BFBFBF"
 
 # --- Other --- #
 
