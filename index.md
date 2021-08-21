@@ -3,7 +3,7 @@ title: "8-Bit Cat's Personal Website"
 subtitle: "By: 8itCat"
 ---
 
-## [Welcome!](#welcome)
+## Welcome!
 
 Hey, welcome to my website, the place where I store all the cool stuff I do online.
 
@@ -15,7 +15,7 @@ I am a 15-year old Sophomore in High School in rural New Hampshire. My interests
 I've loved computers since a very young age!
 [Click to read more](https://8itcat.github.io/About-Me/)
 
-### [Projects](#projects)
+### Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/8itCat/8itCat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
