@@ -5,7 +5,9 @@ subtitle: "Personal Website"
 
 ## Welcome!
 
-Hey, welcome to my website, the place where I store all the cool stuff I do online.\nHave a look around and send me any feedback you have on the site or my projects!
+Hey, welcome to my website, the place where I store all the cool stuff I do online.
+
+Have a look around and feel free to share any feedback you have on the site or my projects!
 
 ### Markdown
 
