@@ -1,6 +1,6 @@
 ---
-title: "8-Bit Cat's"
-subtitle: "Personal Website"
+title: "8-Bit Cat's Personal Website"
+subtitle: "By: 8itCat"
 ---
 
 ## Welcome!
@@ -11,27 +11,9 @@ Have a look around and feel free to share any feedback you have on the site or m
 
 ### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am a 15-year old Sophomore in High School in rural New Hampshire. My interests include Hackintoshing, PC Building, sailing, skiing, coding, and hacking.
+I've loved computers since a very young age!
+[Click to read more](https://8itcat.github.io/About-Me/)
 
 ### Jekyll Themes
 
