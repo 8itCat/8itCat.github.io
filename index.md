@@ -9,7 +9,7 @@ Hey, welcome to my website, the place where I store all the cool stuff I do onli
 
 Have a look around and feel free to share any feedback you have on the site or my projects!
 
-### Markdown
+### About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
