@@ -3,11 +3,9 @@ title: "8-Bit Cat's"
 subtitle: "Personal Website"
 ---
 
-## 8-Bit Cat
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/8itCat/8itCat.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey, welcome to my website, the place where I store all the cool stuff I do online.\nHave a look around and send me any feedback you have on the site or my projects!
 
 ### Markdown
 
