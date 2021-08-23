@@ -19,9 +19,9 @@ I've loved computers since a very young age!
 
 I have a few programming projects that I am working on! Click the link below to check them out!
 
-<span class="fs-8">
-[My Projects](https://8itcat.github.io/projects/){: .btn .btn-purple }
-</span>
+<form>
+  <button class="btn btn-primary" formaction="https://8itcat.github.io/projects/">My Projects</button>
+</form>
 
 ### Support or Contact
 
