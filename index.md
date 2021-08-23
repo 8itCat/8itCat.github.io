@@ -13,7 +13,10 @@ Have a look around and feel free to share any feedback you have on the site or m
 
 I am a 15-year old Sophomore in High School in rural New Hampshire. My interests include Hackintoshing, PC Building, sailing, skiing, coding, and hacking.
 I've loved computers since a very young age!
-[Click to read more](https://8itcat.github.io/About-Me/)
+
+<form>
+  <button class="btn btn-primary" formaction="https://8itcat.github.io/About-Me/">Click to Read More</button>
+</form>
 
 ### Projects
 
