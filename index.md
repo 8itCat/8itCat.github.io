@@ -19,8 +19,6 @@ I've loved computers since a very young age!
 
 I have a few programming projects that I am working on! Click the link below to check them out!
 
-<button class="button-save large">Big Fat Button</button>
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
