@@ -19,7 +19,7 @@ I've loved computers since a very young age!
 
 I have a few programming projects that I am working on! Click the link below to check them out!
 
-<button type="button" class="btn btn-primary" onclick="https://8itcat.github.io/projects/">My Projects</button>
+[My Projects](https://8itcat.github.io/projects/){: .btn .btn-purple }
 
 ### Support or Contact
 
