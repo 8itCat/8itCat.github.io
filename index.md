@@ -17,6 +17,7 @@ I've loved computers since a very young age!
 <form>
   <button class="btn btn-primary" formaction="https://8itcat.github.io/About-Me/">Click to Read More</button>
 </form>
+<br>
 
 ### Projects
 
@@ -25,7 +26,7 @@ I have a few programming projects that I am working on! Click the link below to 
 <form>
   <button class="btn btn-primary" formaction="https://8itcat.github.io/projects/">My Projects</button>
 </form>
-
+<br>
 
 ### Contact
 
