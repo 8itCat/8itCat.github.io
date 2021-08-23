@@ -8,6 +8,7 @@ subtitle: "By: 8itCat"
 Hey, welcome to my website, the place where I store all the cool stuff I do online.
 
 Have a look around and feel free to share any feedback you have on the site or my projects!
+<br>
 
 ### About Me
 
