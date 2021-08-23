@@ -4,6 +4,9 @@ title: "My Projects"
 
 <br>
 
+# Programming Projects
+<br>
+
 ## About This Hack
 
 A simple application to view your exact hardware on macOS. Similar to About This Mac, but with more features, including AMD Processor Support, display resolution, and more! Works on both Hackintoshes and real Macs!
@@ -12,6 +15,7 @@ A simple application to view your exact hardware on macOS. Similar to About This
   <button class="btn btn-primary" formaction="https://github.com/8itCat/About-This-Hack/">Learn More</button>
   <button class="btn btn-primary" formaction="https://github.com/8itCat/About-This-Hack/releases/latest">Latest Release</button>
 </form>
+<br>
 
 ## 8itcat.github.io (This Website!)
 
@@ -21,6 +25,7 @@ My website where I dump all the cool stuff I do online!
   <button class="btn btn-primary" formaction="https://github.com/8itCat/8itCat.github.io/">Learn More</button>
   <button class="btn btn-primary" formaction="https://github.com/8itCat/8itCat.github.io/deployments/activity_log?environment=github-pages">Deployments</button>
 </form>
+<br>
 
 ## Discord Sur (Deprecated)
 
@@ -30,9 +35,11 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
   <button class="btn btn-primary" formaction="https://github.com/8itCat/Discord-Sur/">Learn More</button>
   <button class="btn btn-primary" formaction="https://github.com/8itCat/Discord-Sur/releases/latest">Deployments</button>
 </form>
-
+<br>
+<br>
 
 # Other Projects
+<br>
 
 ### Discord Server - Hack Café
 
