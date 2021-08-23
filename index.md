@@ -23,6 +23,8 @@ I have a few programming projects that I am working on! Click the link below to 
   <button class="btn btn-primary" formaction="https://8itcat.github.io/projects/">My Projects</button>
 </form>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
+### Contact
+
+Have any questions, suggestions, comments, or concerns about my website and projects? Want to just chat with me? Check out my [Discord Server](https://discord.gg/5AQjAnNKYd) or any of the socials found at the bottom of the website!
+Thanks for stopping by!!!
