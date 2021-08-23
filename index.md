@@ -17,7 +17,8 @@ I've loved computers since a very young age!
 
 ### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/8itCat/8itCat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have a few programming projects that I am working on! Click the link below to check them out!
+[Projects](https://8itcat.github.io/projects/){: .btn .btn-purple }
 
 ### Support or Contact
 

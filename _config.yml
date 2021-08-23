@@ -13,6 +13,7 @@ author: 8itCat
 
 navbar-links:
   About Me: "About-Me"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
