@@ -48,3 +48,4 @@ Hello! Welcome to Hack Café: Your friendly neighborhood Hackintosh community!
 <form target="_blank">
   <button class="btn btn-primary" formaction="https://discord.gg/5AQjAnNKYd">Link to Join</button>
 </form>
+<br>
