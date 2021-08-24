@@ -27,4 +27,4 @@ If you don't see an extension you want, make a request below.
 
 ## Disclaimer
 
-I don't own the copywrights for any of the Chrome extensions I modify. You will not go to jail for using my extensions but I just wanted to put it out there.
+I don't own the copyrights for any of the Chrome extensions I modify. You will not go to jail for using my extensions but I just wanted to put it out there.
