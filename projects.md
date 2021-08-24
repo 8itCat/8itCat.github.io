@@ -26,6 +26,16 @@ My website where I dump all the cool stuff I do online!
 </form>
 <br>
 
+### Chromafari
+
+My growing list of Chrome extensions that I ported to Safari for macOS. Designed to work on Intel and Apple Silicon on most modern versions of macOS.
+
+<form target="_blank">
+  <button class="btn btn-primary" formaction="https://8itCat.github.io/chromafari/">Learn More</button>
+  <button class="btn btn-primary" formaction="https://github.com/8itCat/Chromafari/">GitHub Repo</button>
+</form>
+<br>
+
 ### Discord Sur (Deprecated)
 
 A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original theme that I'm modifying! The May 15th Discord UI update broke this theme so I will need to remake it. Feel free to try it out though!
