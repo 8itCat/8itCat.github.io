@@ -12,7 +12,7 @@ Have a look around and feel free to share any feedback you have on the site or m
 
 ### About Me
 
-I am a 15-year old Sophomore in High School in rural New Hampshire. My interests include Hackintoshing, PC Building, sailing, skiing, coding, and hacking.
+Hi there! I am an aspiring software developer. My interests include Hackintoshing, PC Building, sailing, skiing, coding, and hacking. 
 I've loved computers since a very young age!
 
 <form>
