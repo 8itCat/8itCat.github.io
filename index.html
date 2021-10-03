@@ -4,12 +4,26 @@ title: "8-Bit Cat"
 subtitle: "Personal Website"
 ---
 
+#container {
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+}
+
+<br>
 <h2 id="welcome">Welcome!</h2>
 <p>Hey, welcome to my website, the place where I store all the cool stuff I do online.</p>
 <p>Have a look around and feel free to share any feedback you have on the site or my projects!<br></p>
 <form>
-  <button class="btn btn-primary" formaction="https://8itcat.github.io/About-Me/">Learn More About Me</button>
+  <button class="btn btn-primary" formaction="https://8itcat.github.io/About-Me/">About Me</button>
+  <button class="btn btn-primary" formaction="https://8itcat.github.io/projects/">Projects</button>
 </form>
+<div class="main-explain-area jumbotron">
+  <p>Welcome to 8itCat's website!</p>
+</div>
+<br>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
