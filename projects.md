@@ -53,7 +53,5 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 
 My personal tech and Hackintosh Discord server! Come and join, it's a fun and friendly community!
 
-<form target="_blank">
-  <button class="btn btn-primary" formaction="https://discord.gg/5AQjAnNKYd">Link to Join</button>
-</form>
+![Discord Server](https://discordapp.com/api/guilds/803647272008941638/widget.png?style=banner2)
 <br>
