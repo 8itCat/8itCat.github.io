@@ -55,6 +55,12 @@ footer-link-col: "#404040"
 
 # --- Other --- #
 
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: false
+  vk: false
+
 # Exclude Files in Website
 exclude:
   - README.md
