@@ -116,3 +116,6 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Enables Disqus comments
+disqus: "8itCat"
