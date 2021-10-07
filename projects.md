@@ -42,7 +42,7 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 
 <form target="_blank">
   <button class="btn btn-primary" formaction="https://github.com/8itCat/Discord-Sur/">Learn More</button>
-  <button class="btn btn-primary" formaction="https://github.com/8itCat/Discord-Sur/releases/latest">Deployments</button>
+  <button class="btn btn-primary" formaction="https://github.com/8itCat/Discord-Sur/releases/latest">Latest Release</button>
 </form>
 <br>
 <br>
@@ -51,7 +51,7 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 
 #### Discord Server - Hack Café
 
-Hello! Welcome to Hack Café: Your friendly neighborhood Hackintosh community!
+My personal tech and Hackintosh Discord server! Come and join, it's a fun and friendly community!
 
 <form target="_blank">
   <button class="btn btn-primary" formaction="https://discord.gg/5AQjAnNKYd">Link to Join</button>
