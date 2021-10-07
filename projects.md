@@ -53,10 +53,5 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 
 My personal tech and Hackintosh Discord server! Come and join, it's a fun and friendly community!
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '803647272008941638', // Hack Café
-        channel: '803647272008941641' // #bot-commands
-    })
-</script>
+<iframe src="https://canary.discord.com/widget?id=803647272008941638&theme=dark" width="140" height="200" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <br>
